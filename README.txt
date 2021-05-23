@@ -23,11 +23,11 @@ document is the specification for this application.
 
 Web application Notes
  
-Main page -  present interesting information on the application and the weather domain
-About us - presents details on the WeatherTop company 
-Dashboard page presents all details.
-Login page allows user to login to application
-Signup page allows user to sginup
+Main page - (PROPOSAL)  present interesting information on the application and the weather domain
+About us - (PROPOSAL) presents details on the WeatherTop company 
+Dashboard page -  presents all details.
+Login page -  allows user to login to application
+Signup page - allows user to sginup
 
 
 Structure
